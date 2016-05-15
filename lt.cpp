@@ -121,6 +121,8 @@ void move(int step, int direction)
 }
 
 // We will need to set this up soon.
+// What will this be doing in terms of the mprogress of our robot?
+
 int findPid()
 {
 	//code to find PID
